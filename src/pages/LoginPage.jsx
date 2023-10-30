@@ -21,8 +21,6 @@ const LoginPage = () => {
       email: "",
       password: ""
     })
-
-
   }
 
   return (

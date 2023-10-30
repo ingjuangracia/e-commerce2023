@@ -24,7 +24,6 @@ const ProductIdPage = () => {
     //console.log(product);
 
     return (
-
         <section className='ProductDetailsSection'>
             <div className="product-info">
                 <SliderImgs

@@ -14,7 +14,6 @@ const PurchasesPage = () => {
 
 
   return (
-
     <section className="purchases">
       <h2 className="purchases__title">My Purchases</h2>
       <div className="purchases__list">

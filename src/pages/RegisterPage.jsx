@@ -21,7 +21,6 @@ const RegisterPage = () => {
 
   }
 
-
   return (
     <section className="form">
       <h2 className="form__title">Sign Up</h2>
