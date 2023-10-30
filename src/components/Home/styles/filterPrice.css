@@ -1,0 +1,62 @@
+.filterPrice-container {
+    padding-left: 20px;
+    height: 250px;
+}
+
+.filterPrice-container h3 {
+    border-bottom: 2px solid #ccc;
+    width: 250px;
+    cursor: pointer;
+
+}
+
+.filterPrice-container i {
+    position: relative;
+    top: 5px;
+    left: 175px;
+    font-size: 28px;
+}
+
+
+.form-container {
+    margin-top: 20px;
+    padding-left: 12px;
+}
+
+.form-field {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+
+}
+
+.form-label {
+    flex: 0.7;
+
+}
+
+.form-input {
+    width: 180px;
+    height: 32px;
+    border: 2px solid #ccc;
+    border-radius: 3px;
+    
+}
+
+.form-button {
+    margin-top: 12px;
+    margin-left: 55%;
+    width: 95px;
+    height: 35px;
+    border-radius: 5px;
+    background-color: orange;
+    color: black;
+    border: none;
+    box-shadow: 1px 1px 1px 1px gray;
+    font-weight: bold;
+}
+
+.form-button:hover {
+    background-color: darkblue;
+    color: white;
+}

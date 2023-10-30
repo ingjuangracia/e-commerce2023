@@ -1,0 +1,19 @@
+
+.similar-products {
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.similar-products__title {
+    color: darkblue;
+    margin-left: 50px;
+}
+
+.similar-products__list {
+    width: 90%;
+    margin: 70px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+       
+}
